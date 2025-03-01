@@ -29,8 +29,10 @@
 
 ## [VuepressDemo](https://github.com/any-block/VuepressDemo)
 
-用于演示在VuePress/VitePress上的部署方法
+- en: Used to demonstrate deployment methods on VuePress/VitePress
+- zh: 用于演示在VuePress/VitePress上的部署方法
 
 ## [VitepressDemo](https://github.com/any-block/VitepressDemo)
 
-用于演示在VuePress/VitePress上的部署方法
+- en: Used to demonstrate deployment methods on VuePress/VitePress
+- zh: 用于演示在VuePress/VitePress上的部署方法
