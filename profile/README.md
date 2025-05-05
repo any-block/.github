@@ -27,6 +27,13 @@
 	- 备用网站链接：如果网站失效，则将网站链接部分的 `linczero.github.io` 替换成 `linczero-github-io.pages.dev` 就可以了
 	  （**本文的默认网站链接指向 github.io，如果国内有不能访问的朋友，那么大概率需要做这一步**）
 
+monorepo
+
+- Obsidian插件版本、min版本
+- App版本
+- Markdown-it插件版本
+- Vuepress插件版本
+
 ## [VuepressDemo](https://github.com/any-block/VuepressDemo)
 
 - en: Used to demonstrate deployment methods on VuePress/VitePress
